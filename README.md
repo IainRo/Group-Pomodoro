@@ -1,10 +1,6 @@
 # Welcome to WePomo!
-Welcome to WePomo's Pomodoro Timer Repository! Designed and built by Group 20 of the WI21 CSE 110 class!
+Welcome to WePomo's Pomodoro Timer Repository! Designed and built for UCSD's CSE110 during Winter 2021
 
 ## Starting Off
 
-Check out our newly released [Pomodoro Timer!](https://www.lambrian.me/cse110-w21-group20/)
-
-Find out more about WePomo's values, objectives, team, and more at our [Wiki!](https://github.com/brilam8/cse110-w21-group20/wiki/Welcome-to-WePomo!#time-is-money)
-
-To view our "promotional" videos, proceed to the [videos](https://github.com/brilam8/cse110-w21-group20/tree/main/admin/videos) folder in our repository!
+This webapp is designed for users to be able to effectively manage their time while working, without losing focus on their task. This program focuses on being an easy to use time management system, while also having the ease of a website.
